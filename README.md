@@ -17,7 +17,7 @@ Open `index.html` locally if you prefer an offline copy.
 ## Attribution & copyright
 
 - **Author of all essay content:** Gregory Blotnick (@gregoryblotnick). He retains copyright.
-- This repository is a **personal reading / archival convenience** — not affiliated with the author, X, or 23 Street as a publication of his work.
+- This repository is a **personal reading / archival convenience** — not affiliated with the author or X as a publication of his work.
 - Do **not** rehost commercially or present the writing as your own.
 - If the rights holder requests removal, open an issue or contact the repo owner.
 
